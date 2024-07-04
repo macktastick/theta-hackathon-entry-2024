@@ -2,11 +2,21 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+<!--    <variables></variables>-->
     <build-profile instance="the2">
         <variables>
             <noindex-content>true</noindex-content>
+            <header-logo>logo.png</header-logo>
+            <custom-favicons>favicon.ico</custom-favicons>
         </variables>
+
+        <footer>
+            <copyright>2024 WWZ</copyright>
+            <social type="twitter" href="https://twitter.com/wwzgame"/>
+            <social type="youtube" href="https://www.youtube.com/@web3wwz"/>
+            <social type="email" href="contact@wwz.gg"/>
+            <link href="https://wwz.gg">Website</link>
+        </footer>
     </build-profile>
 
 </buildprofiles>

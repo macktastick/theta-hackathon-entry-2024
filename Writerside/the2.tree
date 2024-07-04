@@ -4,7 +4,16 @@
 
 <instance-profile id="the2"
                  name="Theta Hackathon Entry 2024"
-                 start-page="starter.md">
+                 start-page="Introduction.md">
 
-    <toc-element topic="starter.md"/>
+    <toc-element topic="Introduction.md">
+        <toc-element topic="Inspiration.md"/>
+        <toc-element topic="What-It-Does.md"/>
+        <toc-element topic="How-We-Built-It.md"/>
+        <toc-element topic="Challenges-We-Ran-Into.md"/>
+        <toc-element topic="Demonstrations.md"/>
+        <toc-element topic="Accomplishments-We-re-Proud-Of.md"/>
+        <toc-element topic="What-We-Learned.md"/>
+        <toc-element topic="What-s-Next-for-WWZ.md"/>
+    </toc-element>
 </instance-profile>
