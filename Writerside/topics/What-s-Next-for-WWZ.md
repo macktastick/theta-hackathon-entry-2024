@@ -10,7 +10,7 @@ We plan to launch our first league in Q3 2024. We intend to start with relativel
 
 ### Partner Rewards Integration
 
-We are currently demonstrating automated TFUEL-based P2E capabilities, but intend to expand this to include TNT-20 token based rewards.
+Pending legal review, we would like to integrate automated TNT-20 token based rewards.
 
 ### Auditable Game Results
 
