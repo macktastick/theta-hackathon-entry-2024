@@ -4,7 +4,7 @@
 
 The success of WWZ depends on how well it can support a growing player base. Therefore, most of our architectural design decisions favor some form of auto-scaling or serverless components.
 
-|  ![https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/wwz-architecture-no-grid.png](https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/wwz-architecture-no-grid.png)  |
+|  ![https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/wwz-cloud-architecture-dark.png](https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/wwz-cloud-architecture-dark.png)  |
 |:---------------------------------------------------------------------------------:|
 |                                  *Overview of WWZ system architecture*                                   |
 
