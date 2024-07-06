@@ -1,4 +1,4 @@
-# Accomplishments That We're Proud Of
+# Accomplishments We're Proud Of
 
 ### Gym Network Growth
 
