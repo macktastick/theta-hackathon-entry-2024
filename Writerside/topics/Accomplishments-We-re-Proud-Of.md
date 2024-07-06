@@ -1,37 +1,39 @@
-# Accomplishments We&apos;re Proud Of
+# Accomplishments That We're Proud Of
 
-## Successful PvP Tournament Nᵒ 1
+### Gym Network Growth
 
-In early June, we [invited the WWZ community](https://twitter.com/wwzgame/status/1797956230406951205) to participate in our first organized tournament. 
+WWZ currently provides gaming utility:
 
-![pvp-tournament-invite.png](pvp-tournament-invite.png){border-effect=line}
+* to [15 NFT collections](https://app.wwz.gg/collections) (6 on Theta)
+* in [8 Community Discord Servers](https://app.wwz.gg/gyms) (5 on Theta)
+* across 4 blockchains (with Theta as primary)
+* to over 100,000 playable PFP NFTs
 
+### Successful PvP Tournament Nᵒ 1
 
-Twenty-two players competed for a prize pool that included Theta NFTs, TFUEL, WWZ skins, and a Grand Prize of a ticket to ThetaCon 2024 provided by the [Order of the Tigons](https://www.orderofthetigons.com/). 
+In early June, we [invited the WWZ community](https://twitter.com/wwzgame/status/1797956230406951205) to participate in our first organized tournament. Twenty-two players competed for a prize pool that included Theta NFTs, TFUEL, WWZ skins, and a Grand Prize of a ticket to ThetaCon 2024 provided by the [Order of the Tigons](https://www.orderofthetigons.com/).
 
-| ![pvp-tournament-no-1-final-bracket.png](pvp-tournament-no-1-final-bracket.png){width=450 border-effect=line} | 
-|:-------------------------------------------------------------------------------------------------------------:| 
-|                                                *Caption text*                                                 |
+| ![https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/pvp-tournament-bracket-no-1.png](https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/pvp-tournament-bracket-no-1.png) |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                    *Final bracket for PvP Tournament Nᵒ 1*                                                                    |
 
+### First Solana Event
 
+In June, [POG Digital](https://www.pogdigital.com/) hosted a WWZ series. This marked the first WWZ event outside of Theta.
 
-## First Solana Event
+| ![https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/pog-wwz-series-no-1.png](https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/pog-wwz-series-no-1.png) |
+|:---------------------------------------------------------------------------------:|
+|                  *Promotional flyer for POG Digital WWZ series*                   |
 
-| ![pog-wwz-series-no-1.png](pog-wwz-series-no-1.png){width=450 border-effect=line} | 
-|:---------------------------------------------------------------------------------:| 
-|                                  *Caption text*                                   |
+### Simulator Results
 
-## Simulator and Results
-
-Proving that the game is a "skill game" is an important goal to us. So we are happy to have made progress this season with: 
+Proving WWZ is a "skill game" is an important goal to us. So we are happy to have made progress this season with:
 
 * a simulator capable of running relatively large volumes of games (so far tens of thousands)
 * [initial simulator results](https://medium.com/@wwzgame/f0ec67d4e306) that point toward strong skill-based elements
 
+### Popularity
 
-## Improved Reliability
+On July 4th, 2024 WWZ players [trained their 100,000th combatant](https://x.com/wwzgame/status/1809248811283292536) since we began recording around the same time in 2023.
 
-## Scaling Strategy
-
-## Popularity
-
+---
