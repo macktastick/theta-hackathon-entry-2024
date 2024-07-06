@@ -16,7 +16,7 @@ Prior to this release, WWZ was a read-only Web3 application. The game relied hea
 
 #### Automated TFUEL Reward Transactions
 
-As part of our Summer Release, we are demonstrating a play-to-earn capability. In specific matches, the game now automatically signs and broadcasts a reward transaction to:
+In specific matches, the game is now capable of automatically signing and broadcasting a reward transaction to:
 
 * the winner
 * anyone claiming a bounty during the match

@@ -5,9 +5,9 @@ WWZ is a Web3 game that began as an [entry to the 2023 Theta Hackathon](https://
 This year, we are submitting a major new release that includes:
 
 * Cross-community, cross-chain gameplay
-* Organized Leagues
+* Organized leagues
 * On-Chain, in-game cosmetics
-* Automated TFUEL and TNT20 play-to-earn rewards
+* Automated TFUEL and TNT20 reward capability
 
 With this update, we believe WWZ can become to Web3 communities what pickleball or softball leagues are to off-chain communities.
 

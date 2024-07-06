@@ -19,11 +19,11 @@ We first introduced in-game skins in [January 2024](https://www.notion.so/wwzgam
 
 To date, these cosmetics have been earned by attending or winning special WWZ events. Thanks to help from [OpenTheta](https://opentheta.io/), players may also [buy and sell these rewards](https://opentheta.io/collection/awards).
 
-#### Automated TFUEL Play-to-Earn Rewards
+#### Automated TFUEL/TNT20 Rewards
 
-We are demonstrating automated TFUEL play-to-earn rewards in the #free-for-all channel of our Discord. For now, players are earning TFUEL in the following ways:
+The game is capable of rewarding players with TFUEL or TN20 tokens in the following ways:
 
-* Winning a match earns `X` TFUEL where `X` is the number of players in the match
-* Defeating a player with a bounty earns `Y` TFUEL where `Y` varies as a function of `X` depending on bounty severity
+* Winning a match earns `X` TFUEL/TNT20 where `X` is the number of players in the match
+* Defeating a player with a bounty earns `Y` TFUEL/TNT20 where `Y` varies as a function of `X` depending on bounty severity
 
 ---
