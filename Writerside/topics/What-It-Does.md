@@ -1,6 +1,6 @@
 # What It Does
 
-WWZ is a [Discord](https://discord.com) game for supported profile picture (PFP) NFTs. Players choose and train a PFP from their existing collection to fight on their behalf in automated, text-based combat that can be surprisingly fun.
+WWZ is a [Discord](https://discord.com) game for supported [profile picture (PFP) NFTs](https://www.gemini.com/cryptopedia/what-is-a-pfp-nft-pfp-crypto-pfp-nft-profile-pic-twitter). Players choose and train a PFP from their existing collection to fight on their behalf in automated, text-based combat that can be surprisingly fun.
 
 ### New for Summer 2024
 
