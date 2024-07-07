@@ -10,10 +10,12 @@ We plan to launch our first league in Q3 2024. We intend to start with relativel
 
 ### Partner Rewards Integration
 
-Pending legal review, we would like to integrate automated TNT-20 token based rewards.
+We would like to integrate token based rewards (eg. KFUEL, POG, TVIBE). We have demonstrated the game can technically do this now with the [Theta Blockchain JS SDK](https://docs.thetatoken.org/docs/theta-js-sdk-overview), but we are still in the compliance discovery process (eg. KYC players who participate in rewards of value?).
 
 ### Auditable Game Results
 
 We are interested in exploring writing near-live game data on-chain. Ideally, this would include some form of on-chain randomness as well.
+
+---
 
 

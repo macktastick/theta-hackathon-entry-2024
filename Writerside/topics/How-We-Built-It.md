@@ -61,6 +61,6 @@ For cross-community matches, we leverage the publicly available [Magic Eden API]
 
 ##### OpenSea API
 
-For cross-community matches, we leverage the publicly available OpenSea API for data related to Polygon NFTs.
+For cross-community matches, we leverage the [OpenSea API](https://docs.opensea.io/reference/api-overview) for data related to Polygon NFTs.
 
 ---

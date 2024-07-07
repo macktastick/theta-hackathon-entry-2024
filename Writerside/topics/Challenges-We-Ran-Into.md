@@ -40,8 +40,8 @@ We landed on a visual solution that leverages our strengths in near real-time im
 
 A Facewall is a grid of all team member PFPs and visual indicators of critical states (low health, energy, death).
 
-| ![https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/facewall-whiteboard.png](https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/facewall-whiteboard.png)  |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                                                *Designing the Facewall feature*                                                                |
+| ![https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/facewall-design.png](https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/facewall-design.png)  |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                            *Designing the Facewall feature*                                                            |
 
 ---
