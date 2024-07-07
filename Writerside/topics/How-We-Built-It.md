@@ -32,7 +32,7 @@ And just-in-time graphics support form component choices for deeper workflows.
 
 ### Verification
 
-Generally speaking, players are limited to using only NFTs they own to play WWZ. However, players do not *need* to connect a wallet to WWZ to play.
+Generally speaking, players are limited to NFTs they own when playing WWZ. However, players do not *need* to connect a wallet to WWZ to play.
 
 > We follow the principle of least privilege (PoLP)
 
