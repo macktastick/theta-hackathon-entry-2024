@@ -5,7 +5,7 @@
 WWZ currently provides gaming utility:
 
 * to [15 NFT collections](https://app.wwz.gg/collections) (6 on Theta)
-* in [8 Community Discord Servers](https://app.wwz.gg/gyms) (5 on Theta)
+* in [9 Community Discord Servers](https://app.wwz.gg/gyms) (5 on Theta)
 * across 4 blockchains (with Theta as primary)
 * to over 100,000 playable PFP NFTs
 
@@ -24,6 +24,19 @@ In June, [POG Digital](https://www.pogdigital.com/) hosted a WWZ series. This ma
 | ![https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/pog-wwz-series-no-1.png](https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/pog-wwz-series-no-1.png) |
 |:---------------------------------------------------------------------------------:|
 |                  *Promotional flyer for POG Digital WWZ series*                   |
+
+### Ongoing Solana Expansion
+
+On July 26th, the [g00bs NFT Community](https://g00bs.xyz/home) opened the second WWZ Gym based on a Solana collection (10th Gym overall). 
+
+The g00bs community is already averaging close to 30 players per match - the majority of which are new to Theta. 
+
+_Check out the [g00bs Gym launch trailer](https://x.com/g00bsNFT/status/1816931883353042968)._
+
+| ![https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/g00bs-match-result.png](https://s3.amazonaws.com/theta-hackathon-2024.wwz.gg/g00bs-match-result.png) |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                             *Match results from the g00bs gym*                                                              |
+
 
 ### Simulator Results
 
